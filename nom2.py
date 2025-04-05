@@ -1,4 +1,3 @@
-from binascii import crc32
 n=int(input('ввидите число'))
 a=[]
 b=[]
